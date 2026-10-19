@@ -1,0 +1,128 @@
+{
+  "id": "13-sofiane-rayan",
+  "title": "Sofiane & Rayan — Le book (dialogue Veo, thème réseau pro)",
+  "style": "Modern stylized 3D animation, warm color palette, soft cinematic lighting, expressive characters, high quality render",
+  "characters": [
+    {
+      "key": "sofiane",
+      "name": "Sofiane",
+      "description": "Sofiane, a 26-year-old North African man, short curly hair, tired but proud eyes, wearing a teal food-delivery jacket over a hoodie, backpack strap across his chest",
+      "voice": "young voice, a bit weary, dry humor"
+    },
+    {
+      "key": "rayan",
+      "name": "Rayan",
+      "description": "Rayan, a 31-year-old North African man, well-trimmed beard, camel overcoat over a smart sweater, confident warm energy, expressive hands",
+      "voice": "warm confident voice, big-brother energy"
+    },
+    {
+      "key": "nadia",
+      "name": "Nadia",
+      "description": "Nadia, a 45-year-old elegant businesswoman, silver-streaked dark hair in a low bun, burgundy blazer, sharp kind eyes",
+      "voice": "poised low voice, direct and warm"
+    }
+  ],
+  "speakers": {
+    "sofiane": {},
+    "rayan": {},
+    "nadia": {}
+  },
+  "scenes": [
+    {
+      "dialogue": [
+        { "speaker": "rayan", "text": "Sofiane ? Depuis quand tu livres des sushis, toi ?" },
+        { "speaker": "sofiane", "text": "Depuis que mon bac plus cinq intéresse personne." }
+      ],
+      "cast": ["sofiane", "rayan"],
+      "image_prompt": "Night street in Paris, Sofiane in delivery jacket holding a thermal bag, caught off guard by Rayan leaving a restaurant, streetlights and neon reflections on wet pavement",
+      "motion_prompt": "Rayan stops surprised and asks, Sofiane freezes embarrassed then answers with a bitter half-smile, adjusting his bag strap",
+      "duration": 8
+    },
+    {
+      "dialogue": [
+        { "speaker": "rayan", "text": "Attends… t'as un master en marketing." },
+        { "speaker": "sofiane", "text": "Deux cents candidatures, Rayan. Deux cents." }
+      ],
+      "cast": ["sofiane", "rayan"],
+      "image_prompt": "Close on the two men face to face on the sidewalk, Rayan frowning in disbelief, Sofiane looking down holding up two fingers, cold night light",
+      "motion_prompt": "Rayan frowns disbelieving, Sofiane raises two fingers slowly and looks away, breath visible in the cold air",
+      "duration": 6
+    },
+    {
+      "dialogue": [
+        { "speaker": "sofiane", "text": "Ceux qui décrochent les postes, ils ont un oncle, un contact. Moi j'ai personne." }
+      ],
+      "cast": ["sofiane", "rayan"],
+      "image_prompt": "Sofiane sitting on his scooter looking at the ground, defeated, Rayan listening leaning against a wall, quiet empathy, night ambiance",
+      "motion_prompt": "Sofiane speaks staring at the ground, shrugs slowly, Rayan listens without interrupting, nodding slightly",
+      "duration": 8
+    },
+    {
+      "dialogue": [
+        { "speaker": "rayan", "text": "C'est pas ce que tu sais. C'est qui tu connais." },
+        { "speaker": "sofiane", "text": "Merci, ça m'aide beaucoup." }
+      ],
+      "cast": ["sofiane", "rayan"],
+      "image_prompt": "Rayan pointing gently at Sofiane with a knowing look, Sofiane rolling his eyes with sarcasm, streetlight halo behind them",
+      "motion_prompt": "Rayan points at him while speaking the truth calmly, Sofiane rolls his eyes and answers deadpan",
+      "duration": 6
+    },
+    {
+      "dialogue": [
+        { "speaker": "rayan", "text": "Jeudi soir. Un dîner. Huit personnes qui bossent, qui montent des boîtes. Tu viens." }
+      ],
+      "cast": ["sofiane", "rayan"],
+      "image_prompt": "Rayan showing his phone with a warm app interface displaying a professional dinner event card, determined smile, Sofiane leaning in skeptical, phone glow on their faces",
+      "motion_prompt": "Rayan holds up his phone firmly while talking, tapping it once, Sofiane leans in squinting at the screen",
+      "duration": 8
+    },
+    {
+      "dialogue": [
+        { "speaker": "sofiane", "text": "Un dîner ? Je vais dire quoi, moi ? Que je livre des makis ?" },
+        { "speaker": "rayan", "text": "Que t'as un master et faim de bosser. Le reste, ça se voit tout seul." }
+      ],
+      "cast": ["sofiane", "rayan"],
+      "image_prompt": "Sofiane gesturing at his delivery jacket self-mocking, Rayan putting a firm reassuring hand on his shoulder, warm streetlight",
+      "motion_prompt": "Sofiane gestures at his own jacket with self-deprecating irony, Rayan grabs his shoulder and answers looking him in the eyes",
+      "duration": 6
+    },
+    {
+      "dialogue": [
+        { "speaker": "nadia", "text": "Deux cents candidatures et personne ne vous a rappelé ? Leur erreur." }
+      ],
+      "cast": ["sofiane", "nadia"],
+      "image_prompt": "Thursday dinner in an elegant restaurant, Nadia in burgundy blazer speaking to Sofiane across the table, Sofiane in a clean shirt listening stunned, candles and warm plates, other guests softly blurred",
+      "motion_prompt": "Nadia speaks with calm authority and a slight smile, Sofiane straightens up surprised, candlelight flickers",
+      "duration": 8
+    },
+    {
+      "dialogue": [
+        { "speaker": "nadia", "text": "Je monte une marque. J'ai besoin d'un marketeur qui a la niaque. Envoyez-moi votre book lundi." },
+        { "speaker": "sofiane", "text": "Lundi. Neuf heures." }
+      ],
+      "cast": ["sofiane", "nadia"],
+      "image_prompt": "Nadia handing her business card across the dinner table, Sofiane taking it with both hands, eyes shining, trying to stay composed, warm golden dinner light",
+      "motion_prompt": "Nadia extends her card while speaking, Sofiane takes it carefully with both hands and answers instantly, a smile breaking through",
+      "duration": 8
+    },
+    {
+      "dialogue": [
+        { "speaker": "rayan", "text": "Alors, le dîner ?" },
+        { "speaker": "sofiane", "text": "Je crois que je viens de rencontrer ma future boss." }
+      ],
+      "cast": ["sofiane", "rayan"],
+      "image_prompt": "Outside the restaurant at night, Sofiane holding the business card like a treasure, Rayan arriving with a proud grin, city lights bokeh",
+      "motion_prompt": "Rayan asks with a knowing grin, Sofiane shows the card and answers laughing in disbelief, Rayan pulls him into a brotherly hug",
+      "duration": 6
+    },
+    {
+      "vo": "Ton réseau commence autour d'une vraie table. Nour Meet. Inscris-toi gratuitement.",
+      "image_prompt": "",
+      "image_file": "assets/branding/endcard.png",
+      "motion_prompt": "",
+      "duration": 10,
+      "still": true,
+      "no_character": true
+    }
+  ]
+}

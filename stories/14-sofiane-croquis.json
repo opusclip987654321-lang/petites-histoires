@@ -1,0 +1,161 @@
+{
+  "id": "14-sofiane-croquis",
+  "title": "Sofiane — Le book (version croquis)",
+  "style": "Hand-drawn pencil and ink sketch illustration with soft watercolor washes, warm paper texture, expressive imperfect line work, heartfelt storybook style, muted warm palette",
+  "characters": [
+    {
+      "key": "sofiane",
+      "name": "Sofiane",
+      "description": "Sofiane, a 26-year-old North African man, short curly hair, tired but proud eyes, teal food-delivery jacket over a hoodie"
+    },
+    {
+      "key": "rayan",
+      "name": "Rayan",
+      "description": "Rayan, a 31-year-old North African man, well-trimmed beard, camel overcoat, confident warm energy"
+    },
+    {
+      "key": "nadia",
+      "name": "Nadia",
+      "description": "Nadia, a 45-year-old elegant businesswoman, silver-streaked dark hair in a low bun, burgundy blazer, sharp kind eyes"
+    }
+  ],
+  "scenes": [
+    {
+      "vo": "Deux cents candidatures. Zéro réponse.",
+      "cast": ["sofiane"],
+      "image_prompt": "Sketch of Sofiane slumped at a tiny desk at night, head in his hands, laptop glowing, a mountain of crumpled rejection letters around him",
+      "motion_prompt": "",
+      "duration": 4,
+      "still": true
+    },
+    {
+      "vo": "Sofiane a un master en marketing. Et un sac isotherme sur le dos.",
+      "cast": ["sofiane"],
+      "image_prompt": "Sketch of Sofiane in his teal delivery jacket standing in the rain with a big thermal food bag, a framed diploma ghosted in the cloudy sky above him",
+      "motion_prompt": "",
+      "duration": 4,
+      "still": true
+    },
+    {
+      "vo": "Ce soir-là, devant le restaurant… son cousin Rayan.",
+      "cast": ["sofiane", "rayan"],
+      "image_prompt": "Sketch of a night street, Rayan in camel coat stopping mid-step in surprise as he recognizes Sofiane holding a delivery bag, warm restaurant light spilling out",
+      "motion_prompt": "",
+      "duration": 4,
+      "still": true
+    },
+    {
+      "vo": "« Toi ? Tu livres des sushis ? »",
+      "cast": ["rayan"],
+      "image_prompt": "Close sketch of Rayan's stunned face, eyebrows raised, speech energy in the linework, night street background loosely drawn",
+      "motion_prompt": "",
+      "duration": 4,
+      "still": true
+    },
+    {
+      "vo": "La honte. Le regard qui pique.",
+      "cast": ["sofiane"],
+      "image_prompt": "Close sketch of Sofiane looking down, jaw tight, gripping the strap of his delivery bag, rain hatching around him",
+      "motion_prompt": "",
+      "duration": 4,
+      "still": true
+    },
+    {
+      "vo": "Mais Rayan n'a pas ri.",
+      "cast": ["sofiane", "rayan"],
+      "image_prompt": "Sketch of Rayan putting a firm warm hand on Sofiane's shoulder under a streetlamp, both faces serious and close",
+      "motion_prompt": "",
+      "duration": 4,
+      "still": true
+    },
+    {
+      "vo": "« C'est pas ce que tu sais. C'est qui tu connais. »",
+      "cast": ["rayan"],
+      "image_prompt": "Sketch of Rayan pointing gently, knowing look, a loose constellation of tiny drawn faces connected by pencil lines floating behind him like a network",
+      "motion_prompt": "",
+      "duration": 4,
+      "still": true
+    },
+    {
+      "vo": "Et Sofiane, lui, ne connaît personne.",
+      "cast": ["sofiane"],
+      "image_prompt": "Wide sketch of Sofiane small on his scooter in an empty night avenue, vast negative space of blank paper around him",
+      "motion_prompt": "",
+      "duration": 4,
+      "still": true
+    },
+    {
+      "vo": "Alors Rayan lui montre un dîner. Huit inconnus. Un vrai restaurant.",
+      "cast": ["sofiane", "rayan"],
+      "image_prompt": "Sketch of the two men leaning over a phone, the screen showing a warm little drawn dinner-table icon with eight chairs, curiosity on Sofiane's face",
+      "motion_prompt": "",
+      "duration": 6,
+      "still": true
+    },
+    {
+      "vo": "« Je vais dire quoi, moi ? Que je livre des makis ? »",
+      "cast": ["sofiane"],
+      "image_prompt": "Sketch of Sofiane gesturing at his own delivery jacket with self-mocking irony, one eyebrow raised",
+      "motion_prompt": "",
+      "duration": 4,
+      "still": true
+    },
+    {
+      "vo": "« Que t'as faim de bosser. Le reste, ça se voit. »",
+      "cast": ["rayan"],
+      "image_prompt": "Close sketch of Rayan's confident reassuring face, slight smile, direct eyes",
+      "motion_prompt": "",
+      "duration": 4,
+      "still": true
+    },
+    {
+      "vo": "Jeudi soir. Chemise propre. Cœur qui tape.",
+      "cast": ["sofiane"],
+      "image_prompt": "Sketch of Sofiane in a clean white shirt pausing at the door of a warm candlelit restaurant, hand on the door handle, deep breath",
+      "motion_prompt": "",
+      "duration": 4,
+      "still": true
+    },
+    {
+      "vo": "En face de lui : Nadia. Elle monte sa marque.",
+      "cast": ["nadia"],
+      "image_prompt": "Sketch of Nadia at the dinner table, burgundy blazer, sharp kind eyes, candlelight, listening intently with her chin on her hand",
+      "motion_prompt": "",
+      "duration": 4,
+      "still": true
+    },
+    {
+      "vo": "« Deux cents candidatures sans réponse ? Leur erreur. »",
+      "cast": ["nadia"],
+      "image_prompt": "Close sketch of Nadia speaking with calm authority, a faint smile, warm dinner glow",
+      "motion_prompt": "",
+      "duration": 4,
+      "still": true
+    },
+    {
+      "vo": "« Envoyez-moi votre book lundi. »",
+      "cast": ["sofiane", "nadia"],
+      "image_prompt": "Sketch of Nadia's hand passing a business card across the table, Sofiane receiving it with both hands like a treasure, candle flame between them",
+      "motion_prompt": "",
+      "duration": 4,
+      "still": true
+    },
+    {
+      "vo": "Lundi, neuf heures. Le book est parti. Et tout a commencé par un dîner.",
+      "cast": ["sofiane"],
+      "image_prompt": "Sketch of Sofiane at dawn light clicking send on his laptop, a real smile, the business card pinned on the wall in front of him",
+      "motion_prompt": "",
+      "duration": 6,
+      "still": true
+    },
+    {
+      "vo": "Ton réseau commence autour d'une vraie table. Nour Meet. Inscris-toi gratuitement.",
+      "image_prompt": "",
+      "image_file": "assets/branding/endcard.png",
+      "motion_prompt": "",
+      "duration": 10,
+      "still": true,
+      "no_character": true
+    }
+  ]
+}

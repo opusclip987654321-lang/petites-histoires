@@ -1,0 +1,153 @@
+{
+  "id": "15-sofiane-bd",
+  "title": "Sofiane & Rayan — Le book (BD cartoon)",
+  "style": "Simple flat 2D cartoon illustration, bold clean black outlines, round expressive characters with big simple faces, solid flat colors, minimal background details, hand-drawn TikTok webcomic style, no text",
+  "characters": [
+    {
+      "key": "sofiane",
+      "name": "Sofiane",
+      "description": "Sofiane, a young cartoon man with short black curly hair, thick eyebrows, teal delivery jacket over a dark hoodie, tired expressive eyes"
+    },
+    {
+      "key": "rayan",
+      "name": "Rayan",
+      "description": "Rayan, a cartoon man with a neat short beard, camel-colored overcoat, confident smile, expressive hands"
+    },
+    {
+      "key": "nadia",
+      "name": "Nadia",
+      "description": "Nadia, an elegant cartoon businesswoman, dark hair with a silver streak in a low bun, burgundy blazer, sharp kind eyes"
+    }
+  ],
+  "speakers": {
+    "sofiane": {},
+    "rayan": { "voice_id": "ecxPjiGTvAfpGEams6ec" },
+    "nadia": { "voice_id": "F1toM6PcP54s45kOOAyV" }
+  },
+  "scenes": [
+    {
+      "dialogue": [{ "speaker": "rayan", "text": "Sofiane ?! Depuis quand tu livres des sushis, toi ?" }],
+      "cast": ["rayan"],
+      "image_prompt": "Cartoon Rayan frozen mid-step on a night street, eyes huge with shock, mouth wide open speaking, pointing forward, warm restaurant glow behind him",
+      "motion_prompt": "",
+      "duration": 4,
+      "still": true
+    },
+    {
+      "dialogue": [{ "speaker": "sofiane", "text": "Depuis que mon bac plus cinq intéresse personne." }],
+      "cast": ["sofiane"],
+      "image_prompt": "Cartoon Sofiane holding a big thermal delivery bag, bitter half-smile, mouth open speaking, one eyebrow raised, night street",
+      "motion_prompt": "",
+      "duration": 4,
+      "still": true
+    },
+    {
+      "dialogue": [{ "speaker": "rayan", "text": "Attends… t'as un master en marketing !" }],
+      "cast": ["rayan"],
+      "image_prompt": "Cartoon Rayan frowning in disbelief, hands spread wide, mouth open speaking, big question marks doodled around his head",
+      "motion_prompt": "",
+      "duration": 4,
+      "still": true
+    },
+    {
+      "dialogue": [{ "speaker": "sofiane", "text": "Deux cents candidatures, Rayan. Deux cents." }],
+      "cast": ["sofiane"],
+      "image_prompt": "Cartoon Sofiane holding up two fingers, dead serious face, mouth open speaking, a rain of tiny doodled rejection envelopes falling around him",
+      "motion_prompt": "",
+      "duration": 4,
+      "still": true
+    },
+    {
+      "dialogue": [{ "speaker": "sofiane", "text": "Ceux qui décrochent les postes, ils ont un oncle, un contact. Moi j'ai personne." }],
+      "cast": ["sofiane"],
+      "image_prompt": "Cartoon Sofiane sitting slumped on his delivery scooter, talking with a resigned shrug, empty dark street, one small streetlamp",
+      "motion_prompt": "",
+      "duration": 6,
+      "still": true
+    },
+    {
+      "dialogue": [{ "speaker": "rayan", "text": "C'est pas ce que tu sais. C'est qui tu connais." }],
+      "cast": ["rayan"],
+      "image_prompt": "Cartoon Rayan pointing at the viewer with a knowing look, mouth open speaking, a doodled web of little connected faces floating behind him",
+      "motion_prompt": "",
+      "duration": 4,
+      "still": true
+    },
+    {
+      "dialogue": [{ "speaker": "sofiane", "text": "Merci, ça m'aide beaucoup." }],
+      "cast": ["sofiane"],
+      "image_prompt": "Cartoon Sofiane with a deadpan flat stare, arms crossed, mouth barely open in a sarcastic mutter, tiny storm cloud doodled above his head",
+      "motion_prompt": "",
+      "duration": 4,
+      "still": true
+    },
+    {
+      "dialogue": [{ "speaker": "rayan", "text": "Jeudi soir. Un dîner. Huit personnes qui bossent, qui montent des boîtes. Tu viens." }],
+      "cast": ["rayan"],
+      "image_prompt": "Cartoon Rayan holding up his phone showing a warm little dinner-table app card with eight chairs, determined grin, mouth open speaking",
+      "motion_prompt": "",
+      "duration": 6,
+      "still": true
+    },
+    {
+      "dialogue": [{ "speaker": "sofiane", "text": "Je vais dire quoi, moi ? Que je livre des makis ?" }],
+      "cast": ["sofiane"],
+      "image_prompt": "Cartoon Sofiane gesturing at his own delivery jacket with self-mocking irony, mouth open speaking, sweat drop doodled on his temple",
+      "motion_prompt": "",
+      "duration": 4,
+      "still": true
+    },
+    {
+      "dialogue": [{ "speaker": "rayan", "text": "Que t'as un master et faim de bosser. Le reste, ça se voit tout seul." }],
+      "cast": ["sofiane", "rayan"],
+      "image_prompt": "Cartoon Rayan gripping Sofiane's shoulder firmly, speaking with warm confident eyes, Sofiane listening surprised, streetlamp halo",
+      "motion_prompt": "",
+      "duration": 6,
+      "still": true
+    },
+    {
+      "dialogue": [{ "speaker": "nadia", "text": "Deux cents candidatures et personne ne vous a rappelé ? Leur erreur." }],
+      "cast": ["nadia"],
+      "image_prompt": "Cartoon Nadia at a candlelit dinner table, chin on her hand, calm authority, mouth open speaking, slight smile",
+      "motion_prompt": "",
+      "duration": 6,
+      "still": true
+    },
+    {
+      "dialogue": [{ "speaker": "nadia", "text": "Je monte une marque. Envoyez-moi votre book lundi." }],
+      "cast": ["nadia"],
+      "image_prompt": "Cartoon Nadia extending a business card across the dinner table, direct warm gaze, mouth open speaking, candle flame between",
+      "motion_prompt": "",
+      "duration": 4,
+      "still": true
+    },
+    {
+      "dialogue": [{ "speaker": "sofiane", "text": "Lundi. Neuf heures." }],
+      "cast": ["sofiane"],
+      "image_prompt": "Cartoon Sofiane in a clean white shirt receiving the card with both hands like a treasure, eyes shining, big smile breaking through as he speaks",
+      "motion_prompt": "",
+      "duration": 4,
+      "still": true
+    },
+    {
+      "dialogue": [
+        { "speaker": "rayan", "text": "Alors, le dîner ?" },
+        { "speaker": "sofiane", "text": "Je crois que je viens de rencontrer ma future boss." }
+      ],
+      "cast": ["sofiane", "rayan"],
+      "image_prompt": "Cartoon Rayan grinning with arms open outside the restaurant at night, Sofiane laughing holding up the business card, little doodled stars of joy around them",
+      "motion_prompt": "",
+      "duration": 6,
+      "still": true
+    },
+    {
+      "vo": "Ton réseau commence autour d'une vraie table. Nour Meet. Inscris-toi gratuitement.",
+      "image_prompt": "",
+      "image_file": "assets/branding/endcard.png",
+      "motion_prompt": "",
+      "duration": 10,
+      "still": true,
+      "no_character": true
+    }
+  ]
+}

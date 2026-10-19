@@ -1,0 +1,64 @@
+{
+  "id": "09-sofiane-bilal",
+  "title": "Sofiane & Bilal — Deux moitiés d'un même projet",
+  "style": "Modern stylized 3D animation, warm color palette, soft cinematic lighting, expressive character, high quality render",
+  "character": {
+    "name": "Sofiane",
+    "description": "Sofiane, a 29-year-old North African man, glasses, hoodie over a t-shirt, focused developer look, slightly shy posture, laptop always near"
+  },
+  "scenes": [
+    {
+      "vo": "À Lyon, il y a Sofiane. Un génie du code. Son application est prête depuis six mois.",
+      "image_prompt": "Sofiane coding late at night in a small Lyon apartment, multiple screens showing a polished app, empty energy drink cans, blue screen glow",
+      "motion_prompt": "Fingers fly on the keyboard, code scrolls, he leans back looking at his finished app with a sigh",
+      "duration": 8
+    },
+    {
+      "vo": "Son problème ? Vendre. Parler. Convaincre. Rien que l'idée d'un rendez-vous client lui donne des sueurs.",
+      "image_prompt": "Sofiane frozen and sweating in front of three investors in a meeting room, his slides perfect behind him but words failing, painful awkward silence",
+      "motion_prompt": "He opens his mouth, hesitates, wipes his forehead, the investors exchange glances",
+      "duration": 8
+    },
+    {
+      "vo": "À Marseille, il y a Bilal. Bilal, lui, pourrait vendre du sable dans le désert.",
+      "image_prompt": "A charismatic 31-year-old North African man with a big warm smile and open shirt collar charming a whole terrace of people in Marseille, sunny mediterranean light, magnetic energy",
+      "motion_prompt": "He tells a story with expansive gestures, the whole table laughs, sun flares",
+      "duration": 8,
+      "no_character": true
+    },
+    {
+      "vo": "Son problème à lui ? Il n'a rien à vendre. Les idées, il en a cent. Mais la technique, c'est du chinois.",
+      "image_prompt": "The charismatic Marseille man alone at night staring at a laptop showing an empty code editor, helpless for once, scratching his head, dim light",
+      "motion_prompt": "He types two keys, deletes, closes the laptop in frustration, drops his head on it gently",
+      "duration": 8,
+      "no_character": true
+    },
+    {
+      "vo": "Deux villes. Deux talents. Deux échecs. Pour des raisons exactement opposées.",
+      "image_prompt": "Split screen composition: Sofiane silent facing his screens in Lyon on the left, the charismatic man restless in Marseille on the right, both frustrated, mirrored poses",
+      "motion_prompt": "Both sigh simultaneously in their split frames, both look toward the center of the screen",
+      "duration": 8
+    },
+    {
+      "vo": "Jusqu'à un dîner networking Nour Meet, un soir, à Paris. La place libre à côté de Sofiane ? C'était celle de Bilal.",
+      "image_prompt": "A warm restaurant networking dinner in Paris, the charismatic Marseille man sitting down next to shy Sofiane, first handshake, sparks of complementarity, candlelight",
+      "motion_prompt": "Bilal sits and offers an energetic handshake, Sofiane hesitates then shakes it, both smile",
+      "duration": 12
+    },
+    {
+      "vo": "Bilal a parlé. Sofiane a montré son écran. À la fin du dîner, ils avaient un plan. Six mois plus tard, ils avaient une société.",
+      "image_prompt": "The two men in their own small startup office, their two names on the glass door, Sofiane coding while Bilal seals a deal on the phone, perfect duo energy, bright daylight",
+      "motion_prompt": "Bilal hangs up and raises his fist, Sofiane turns from his screen and they high five",
+      "duration": 10
+    },
+    {
+      "vo": "La personne qui te manque existe. Tu ne l'as juste pas encore rencontrée. Nour Meet. Inscris-toi gratuitement.",
+      "image_prompt": "",
+      "image_file": "assets/branding/endcard.png",
+      "motion_prompt": "",
+      "duration": 10,
+      "still": true,
+      "no_character": true
+    }
+  ]
+}

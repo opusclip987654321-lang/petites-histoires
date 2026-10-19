@@ -1,0 +1,62 @@
+{
+  "id": "07-mehdi",
+  "title": "Mehdi — Le diplômé sans carnet d'adresses",
+  "style": "Modern stylized 3D animation, warm color palette, soft cinematic lighting, expressive character, high quality render",
+  "character": {
+    "name": "Mehdi",
+    "description": "Mehdi, a 27-year-old North African man, short curly black hair, clean shaven, slim fit grey suit slightly too new, backpack, bright intelligent eyes behind thin glasses"
+  },
+  "scenes": [
+    {
+      "vo": "Mehdi a le diplôme. Les compétences. La motivation. Tout, sauf une chose.",
+      "image_prompt": "Mehdi in a slightly oversized new suit holding his degree folder outside a university, proud but alone, other graduates celebrating with families behind, autumn light",
+      "motion_prompt": "He straightens his jacket, looks at the corporate towers in the distance, determined breath",
+      "duration": 8
+    },
+    {
+      "vo": "Entretien numéro douze. « Excellent profil. On vous rappellera. » Ils ne rappellent jamais.",
+      "image_prompt": "Mehdi shaking hands at the end of a job interview with polite but distant recruiters in a glass meeting room, his hopeful face, corporate coldness",
+      "motion_prompt": "Handshake, polite nods, the door closes on him in slow motion, his smile fades in the corridor",
+      "duration": 8
+    },
+    {
+      "vo": "Puis un jour, il comprend. Le poste qu'il visait ? Parti à un « fils de ». Le problème, ce n'est pas son CV. C'est son réseau.",
+      "image_prompt": "Mehdi at a cafe seeing a LinkedIn post on his phone announcing someone else got the position, congratulation comments flooding, his reflection in the window pensive",
+      "motion_prompt": "He scrolls the congratulations, looks up at his reflection in the cafe window, realization dawns",
+      "duration": 10
+    },
+    {
+      "vo": "Ses parents ne peuvent pas l'aider. Personne dans la famille ne connaît ce milieu. Le réseau, chez lui, ça ne s'hérite pas.",
+      "image_prompt": "Warm family dinner in a modest home, his proud parents and siblings around couscous, Mehdi loved but carrying his worry alone, tender lighting",
+      "motion_prompt": "His mother serves him with pride, he smiles at her tenderly, then his gaze drifts to the window",
+      "duration": 10
+    },
+    {
+      "vo": "Alors il décide de le construire lui-même. Une soirée networking Nour Meet. Puis deux. Puis cinq.",
+      "image_prompt": "Mehdi at a warm restaurant networking dinner, listening intensely to experienced professionals, taking mental notes, engaged and alive, candlelight",
+      "motion_prompt": "Animated conversation around the table, he asks a question, a senior professional turns to him with interest",
+      "duration": 10
+    },
+    {
+      "vo": "À la cinquième, il rencontre Karima. Directrice dans sa branche. Elle devient son mentor.",
+      "image_prompt": "An elegant confident woman in her fifties exchanging contact with Mehdi at the dinner, genuine warmth, other guests around, golden atmosphere",
+      "motion_prompt": "She hands him her card with an encouraging smile, he receives it with both hands, moved",
+      "duration": 8
+    },
+    {
+      "vo": "Trois mois plus tard : « Mehdi, une boîte cherche exactement ton profil. Je t'ai recommandé. » Cette fois, ils ont rappelé.",
+      "image_prompt": "Mehdi in the street answering a phone call, his face exploding with joy, fist raised, passersby smiling, sunny Parisian street",
+      "motion_prompt": "He listens, stops walking, punches the air with joy, spins around laughing",
+      "duration": 8
+    },
+    {
+      "vo": "Le réseau ne devrait pas être un privilège de naissance. Nour Meet. Inscris-toi gratuitement.",
+      "image_prompt": "",
+      "image_file": "assets/branding/endcard.png",
+      "motion_prompt": "",
+      "duration": 10,
+      "still": true,
+      "no_character": true
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": "02-samira",
+  "title": "Samira — Toutes ses copines sont mariées",
+  "style": "Modern stylized 3D animation, warm color palette, soft cinematic lighting, expressive character, high quality render",
+  "character": {
+    "name": "Samira",
+    "description": "Samira, a 32-year-old North African woman, long dark brown hair, warm brown eyes, elegant modest style, emerald green dress at the wedding and casual chic beige coat elsewhere, gentle tired smile"
+  },
+  "scenes": [
+    {
+      "vo": "Samira adore les mariages. Elle en a fait douze cette année. Aucun n'était le sien.",
+      "image_prompt": "Samira in an elegant emerald dress applauding at a festive wedding reception, golden lights, guests dancing around a bride and groom in the background",
+      "motion_prompt": "She claps and smiles at the celebration, golden light bokeh flickering, slow push-in on her face as her smile softens",
+      "duration": 8
+    },
+    {
+      "vo": "Et à chaque fois, la même question. « Et toi Samira, c'est pour quand ? »",
+      "image_prompt": "Two older aunties in festive attire leaning toward Samira at a decorated wedding table, knowing smiles, Samira with a polite forced smile holding a glass of juice",
+      "motion_prompt": "The aunties lean in speaking with animated gestures, Samira nods politely, her smile tightens slightly",
+      "duration": 8
+    },
+    {
+      "vo": "Elle sourit. Elle répond « bientôt, incha'Allah ». Mais dans le taxi du retour…",
+      "image_prompt": "Night interior of a taxi, Samira in the back seat looking out the window, city lights of Paris sliding across the glass, her reflection pensive",
+      "motion_prompt": "City lights stream across the window, slow zoom on her reflection in the glass, she exhales quietly",
+      "duration": 8
+    },
+    {
+      "vo": "Le problème de Samira, ce n'est pas elle. C'est son cercle. Travail. Maison. Famille. Où est-elle censée le rencontrer ?",
+      "image_prompt": "Split-mood illustration of Samira's daily routine: at her office desk, in her small kitchen, on her sofa with her phone, muted colors, same three locations repeating",
+      "motion_prompt": "Subtle parallax between the daily routine panels, she scrolls her phone on the sofa, the light dims slightly",
+      "duration": 10
+    },
+    {
+      "vo": "Les applis classiques ? Elle a essayé. Des conversations qui meurent. Des intentions floues.",
+      "image_prompt": "Close on Samira's phone screen showing a generic dating app chat with a dead conversation, her thumb hovering, her face lit blue in the dark living room, disappointed",
+      "motion_prompt": "She scrolls through empty conversations, shakes her head slightly, blue light flickers on her face",
+      "duration": 8
+    },
+    {
+      "vo": "Puis une amie lui parle de Nour Meet. Des soirées en petit comité. Des participants vérifiés. Des gens qui cherchent la même chose qu'elle : du sérieux.",
+      "image_prompt": "Samira's face lighting up warmly as she looks at her phone showing a clean app interface with an upcoming dinner event in a Parisian restaurant, warm golden glow",
+      "motion_prompt": "Warm light grows on her face, her eyes brighten, she sits up with new energy",
+      "duration": 10
+    },
+    {
+      "vo": "Une soirée. Une vraie table. De vraies conversations.",
+      "image_prompt": "A warm Parisian restaurant evening, Samira laughing naturally at a small elegant dinner table with a few verified participants, candles and mint tea, genuine atmosphere",
+      "motion_prompt": "Natural laughter around the table, candlelight flickers, gentle lateral camera movement",
+      "duration": 6
+    },
+    {
+      "vo": "Et cette fois, quand la question est revenue au mariage suivant… Samira a juste souri. Différemment.",
+      "image_prompt": "Back at another wedding, Samira in a beautiful dress smiling serenely and confidently, a soft knowing glow about her, warm celebration lights behind",
+      "motion_prompt": "Slow zoom on her serene confident smile, golden bokeh shimmering behind her",
+      "duration": 8
+    },
+    {
+      "vo": "Les rencontres sérieuses existent encore. Nour Meet. Inscris-toi gratuitement.",
+      "image_prompt": "",
+      "image_file": "assets/branding/endcard.png",
+      "motion_prompt": "",
+      "duration": 10,
+      "still": true,
+      "no_character": true
+    }
+  ]
+}

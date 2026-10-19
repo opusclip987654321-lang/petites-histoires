@@ -1,0 +1,254 @@
+{
+  "id": "17-sofiane-hybride",
+  "title": "Sofiane & Rayan — Le book (hybride : temps forts animés)",
+  "style": "Viral TikTok stickman cartoon style: characters with big round white heads, simple expressive dot eyes and bold eyebrows, thin black limbs, thick clean black outlines, simple flat colorful backgrounds with bold shapes, vibrant solid colors, funny exaggerated expressions, no text",
+  "characters": [
+    {
+      "key": "sofiane",
+      "name": "Sofiane",
+      "description": "Sofiane, a stickman character with short black curly hair on his round white head, thick worried eyebrows, wearing a teal delivery jacket with a big backpack strap"
+    },
+    {
+      "key": "rayan",
+      "name": "Rayan",
+      "description": "Rayan, a stickman character with a small black beard drawn on his round white head, confident eyebrows, wearing a camel-colored coat"
+    },
+    {
+      "key": "nadia",
+      "name": "Nadia",
+      "description": "Nadia, a stickman character with an elegant grey-streaked dark bun hairstyle on her round white head, calm sharp eyes, wearing a burgundy blazer"
+    }
+  ],
+  "speakers": {
+    "sofiane": {},
+    "rayan": {
+      "voice_id": "ecxPjiGTvAfpGEams6ec"
+    },
+    "nadia": {
+      "voice_id": "F1toM6PcP54s45kOOAyV"
+    }
+  },
+  "scenes": [
+    {
+      "dialogue": [
+        {
+          "speaker": "rayan",
+          "text": "Sofiane ?! Depuis quand tu livres des sushis, toi ?"
+        }
+      ],
+      "cast": [
+        "rayan"
+      ],
+      "image_prompt": "Stickman Rayan frozen mid-step on a night street with simple building shapes, eyes huge with shock, mouth WIDE open shouting, arms thrown up, big surprise lines around his head",
+      "motion_prompt": "2D cartoon animation: the character shouts with big energy, mouth opening wide, arms flailing up and down, surprise lines shaking around his head, slight camera shake",
+      "duration": 4
+    },
+    {
+      "dialogue": [
+        {
+          "speaker": "sofiane",
+          "text": "Depuis que mon bac plus cinq intéresse personne."
+        }
+      ],
+      "cast": [
+        "sofiane"
+      ],
+      "image_prompt": "Stickman Sofiane holding a big thermal delivery bag, bitter half-smile, mouth open talking, one eyebrow raised, flat night street background",
+      "motion_prompt": "",
+      "duration": 4,
+      "still": true
+    },
+    {
+      "dialogue": [
+        {
+          "speaker": "rayan",
+          "text": "Attends… t'as un master en marketing !"
+        }
+      ],
+      "cast": [
+        "rayan"
+      ],
+      "image_prompt": "Stickman Rayan leaning forward in disbelief, arms spread wide, mouth open exclaiming, three big red question marks floating around his head",
+      "motion_prompt": "",
+      "duration": 4,
+      "still": true
+    },
+    {
+      "dialogue": [
+        {
+          "speaker": "sofiane",
+          "text": "Deux cents candidatures, Rayan. Deux cents."
+        }
+      ],
+      "cast": [
+        "sofiane"
+      ],
+      "image_prompt": "Stickman Sofiane holding up two fingers with a dead serious face, mouth open talking, a rain of little white rejection envelopes falling around him on a dark blue background",
+      "motion_prompt": "",
+      "duration": 4,
+      "still": true
+    },
+    {
+      "dialogue": [
+        {
+          "speaker": "sofiane",
+          "text": "Ceux qui décrochent les postes, ils ont un oncle, un contact. Moi j'ai personne."
+        }
+      ],
+      "cast": [
+        "sofiane"
+      ],
+      "image_prompt": "Stickman Sofiane sitting slumped on a tiny delivery scooter under one streetlamp, talking with a resigned shrug, vast empty flat dark background around him",
+      "motion_prompt": "2D cartoon animation: the character talks slowly with a sad shrug, shoulders slumping, the streetlamp light flickers gently, his head shakes slightly",
+      "duration": 6
+    },
+    {
+      "dialogue": [
+        {
+          "speaker": "rayan",
+          "text": "C'est pas ce que tu sais. C'est qui tu connais."
+        }
+      ],
+      "cast": [
+        "rayan"
+      ],
+      "image_prompt": "Stickman Rayan pointing at the viewer with a wise knowing face, mouth open talking, a web of little round stickman faces connected by lines floating behind him on a yellow background",
+      "motion_prompt": "",
+      "duration": 4,
+      "still": true
+    },
+    {
+      "dialogue": [
+        {
+          "speaker": "sofiane",
+          "text": "Merci, ça m'aide beaucoup."
+        }
+      ],
+      "cast": [
+        "sofiane"
+      ],
+      "image_prompt": "Stickman Sofiane with a deadpan flat stare and crossed arms, mouth slightly open in a sarcastic mutter, a tiny grey storm cloud with rain drawn above his head",
+      "motion_prompt": "",
+      "duration": 4,
+      "still": true
+    },
+    {
+      "dialogue": [
+        {
+          "speaker": "rayan",
+          "text": "Jeudi soir. Un dîner. Huit personnes qui bossent, qui montent des boîtes. Tu viens."
+        }
+      ],
+      "cast": [
+        "rayan"
+      ],
+      "image_prompt": "Stickman Rayan holding up a giant phone showing a simple dinner table icon with eight chairs, determined grin, mouth open talking, orange background with speed lines",
+      "motion_prompt": "2D cartoon animation: the character talks with excitement holding up the phone, bouncing on his feet, the phone glows and wiggles, speed lines pulse in the background",
+      "duration": 6
+    },
+    {
+      "dialogue": [
+        {
+          "speaker": "sofiane",
+          "text": "Je vais dire quoi, moi ? Que je livre des makis ?"
+        }
+      ],
+      "cast": [
+        "sofiane"
+      ],
+      "image_prompt": "Stickman Sofiane pointing at his own delivery jacket with self-mocking irony, mouth open talking, a big sweat drop on his round head, simple purple background",
+      "motion_prompt": "",
+      "duration": 4,
+      "still": true
+    },
+    {
+      "dialogue": [
+        {
+          "speaker": "rayan",
+          "text": "Que t'as un master et faim de bosser. Le reste, ça se voit tout seul."
+        }
+      ],
+      "cast": [
+        "sofiane",
+        "rayan"
+      ],
+      "image_prompt": "Stickman Rayan gripping stickman Sofiane's shoulder firmly and talking with warm confident eyes, mouth open, Sofiane listening surprised, streetlamp halo on flat dark background",
+      "motion_prompt": "",
+      "duration": 6,
+      "still": true
+    },
+    {
+      "dialogue": [
+        {
+          "speaker": "nadia",
+          "text": "Deux cents candidatures et personne ne vous a rappelé ? Leur erreur."
+        }
+      ],
+      "cast": [
+        "nadia"
+      ],
+      "image_prompt": "Stickman Nadia at a restaurant dinner table with a candle and simple plates, chin on her hand, calm confident face, mouth open talking, warm red flat background",
+      "motion_prompt": "",
+      "duration": 6,
+      "still": true
+    },
+    {
+      "dialogue": [
+        {
+          "speaker": "nadia",
+          "text": "Je monte une marque. Envoyez-moi votre book lundi."
+        }
+      ],
+      "cast": [
+        "nadia"
+      ],
+      "image_prompt": "Stickman Nadia extending a business card across the dinner table with a direct warm gaze, mouth open talking, candle flame between, warm flat background",
+      "motion_prompt": "",
+      "duration": 4,
+      "still": true
+    },
+    {
+      "dialogue": [
+        {
+          "speaker": "sofiane",
+          "text": "Lundi. Neuf heures."
+        }
+      ],
+      "cast": [
+        "sofiane"
+      ],
+      "image_prompt": "Stickman Sofiane in a clean white shirt receiving the business card with both hands like a treasure, huge sparkling eyes, big open-mouth smile, little stars around his head",
+      "motion_prompt": "",
+      "duration": 4,
+      "still": true
+    },
+    {
+      "dialogue": [
+        {
+          "speaker": "rayan",
+          "text": "Alors, le dîner ?"
+        },
+        {
+          "speaker": "sofiane",
+          "text": "Je crois que je viens de rencontrer ma future boss."
+        }
+      ],
+      "cast": [
+        "sofiane",
+        "rayan"
+      ],
+      "image_prompt": "Stickman Rayan with arms open grinning and stickman Sofiane laughing while holding up the business card, outside a simple restaurant shape at night, confetti and joy stars around them",
+      "motion_prompt": "2D cartoon animation: both characters laugh and talk, bouncing with joy, one waves the business card, confetti and stars fall around them",
+      "duration": 6
+    },
+    {
+      "vo": "Ton réseau commence autour d'une vraie table. Nour Meet. Inscris-toi gratuitement.",
+      "image_prompt": "",
+      "image_file": "assets/branding/endcard.png",
+      "motion_prompt": "",
+      "duration": 10,
+      "still": true,
+      "no_character": true
+    }
+  ]
+}

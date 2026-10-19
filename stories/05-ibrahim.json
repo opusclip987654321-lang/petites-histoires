@@ -1,0 +1,62 @@
+{
+  "id": "05-ibrahim",
+  "title": "Ibrahim — Trop tard ?",
+  "style": "Modern stylized 3D animation, warm color palette, soft cinematic lighting, expressive character, high quality render",
+  "character": {
+    "name": "Ibrahim",
+    "description": "Ibrahim, a distinguished 40-year-old North African man, short black hair with grey temples, well-groomed short beard, elegant navy suit without tie, tired dignified eyes"
+  },
+  "scenes": [
+    {
+      "vo": "Ibrahim a tout réussi. Le poste. Le costume. Le bureau avec vue.",
+      "image_prompt": "Ibrahim in an elegant office at dusk, standing by a large window overlooking Paris rooftops, confident posture, golden hour light",
+      "motion_prompt": "He gazes over the city, slow push-in from behind, papers settle on the desk, calm ambiance",
+      "duration": 8
+    },
+    {
+      "vo": "Quinze ans à tout donner au travail. Quinze ans à répondre « après le prochain projet ».",
+      "image_prompt": "Montage feel: Ibrahim younger at a desk buried in files at night, then same desk years later, calendar pages and coffee cups accumulating, office lights",
+      "motion_prompt": "Subtle time-lapse feeling, lights flicker through day and night cycles, he keeps working",
+      "duration": 8
+    },
+    {
+      "vo": "Et puis un soir, il lève la tête. Appartement silencieux. Table pour un. Et cette question qui s'invite : « et maintenant ? »",
+      "image_prompt": "Ibrahim eating dinner alone at a beautiful but empty dining table in a luxurious silent apartment, one plate, one glass, dim warm light, melancholic",
+      "motion_prompt": "Very slow dolly back revealing the large empty apartment around the single lit table, he pauses mid-meal",
+      "duration": 10
+    },
+    {
+      "vo": "Autour de lui, tout le monde est casé. Les présentations de la famille ? Ça n'a rien donné. Et à 40 ans, il se dit que c'est trop tard.",
+      "image_prompt": "Ibrahim at a family gathering politely enduring an aunt showing him a phone photo of a potential match, forced polite smile, warm family living room",
+      "motion_prompt": "The aunt speaks with enthusiasm showing the phone, Ibrahim nods politely, his eyes drift away",
+      "duration": 10
+    },
+    {
+      "vo": "Jusqu'à ce qu'un ami lui montre Nour Meet. Des dîners en petit comité. Des gens de son âge. Des parcours comme le sien.",
+      "image_prompt": "A close friend showing Ibrahim the app on a phone at a cafe terrace, Ibrahim leaning in with cautious curiosity, warm afternoon light",
+      "motion_prompt": "The friend hands over the phone, Ibrahim takes it, his skeptical expression softens into interest",
+      "duration": 10
+    },
+    {
+      "vo": "Première soirée. Une table d'adultes. Des conversations vraies. Personne ne joue.",
+      "image_prompt": "An elegant restaurant dinner with mature professionals in their late thirties and forties, Ibrahim engaged in genuine conversation with an elegant woman his age, candlelight, refined atmosphere",
+      "motion_prompt": "Warm conversation around the table, he and the woman share a genuine smile, candle flames sway gently",
+      "duration": 8
+    },
+    {
+      "vo": "Aujourd'hui, Ibrahim ne dîne plus seul. Et sa seule question, c'est pourquoi il a attendu si longtemps.",
+      "image_prompt": "The same dining table as before but now set for two, Ibrahim laughing with the elegant woman, the apartment feels warm and alive, bright evening light",
+      "motion_prompt": "They toast lightly, laughter, the camera slowly pulls back on the now warm living space",
+      "duration": 8
+    },
+    {
+      "vo": "Il n'est jamais trop tard pour construire. Nour Meet. Inscris-toi gratuitement.",
+      "image_prompt": "",
+      "image_file": "assets/branding/endcard.png",
+      "motion_prompt": "",
+      "duration": 10,
+      "still": true,
+      "no_character": true
+    }
+  ]
+}

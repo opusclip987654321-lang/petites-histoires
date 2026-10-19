@@ -1,0 +1,103 @@
+{
+  "id": "11-leila-samia",
+  "title": "Leïla & Samia — Le thé du samedi (format dialogue)",
+  "style": "Modern stylized 3D animation, warm color palette, soft cinematic lighting, expressive characters, high quality render",
+  "characters": [
+    {
+      "key": "leila",
+      "name": "Leïla",
+      "description": "Leïla, a 34-year-old North African woman, sleek shoulder-length dark hair, sophisticated minimalist style with a cream blazer, intelligent weary eyes, elegant reserve"
+    },
+    {
+      "key": "samia",
+      "name": "Samia",
+      "description": "Samia, a 33-year-old North African woman, voluminous curly hair, colorful terracotta cardigan, big gold hoop earrings, warm mischievous smile, expressive energetic gestures"
+    }
+  ],
+  "speakers": {
+    "leila": { "voice_id": "O31r762Gb3WFygrEOGh0" },
+    "samia": { "voice_id": "F1toM6PcP54s45kOOAyV" },
+    "invite": {}
+  },
+  "scenes": [
+    {
+      "dialogue": [
+        { "speaker": "samia", "text": "Alors… le fameux Monsieur de l'appli ?" },
+        { "speaker": "leila", "text": "Trois semaines de messages pour qu'il me demande si je fais du sport." }
+      ],
+      "cast": ["leila", "samia"],
+      "image_prompt": "Two women having mint tea at a cozy Parisian cafe terrace, Samia leaning in curious with a teasing smile, Leïla stirring her tea with a flat unimpressed look, warm afternoon light",
+      "motion_prompt": "Samia leans forward eagerly, Leïla slowly stirs her tea and raises a deadpan eyebrow, steam rises",
+      "duration": 8
+    },
+    {
+      "dialogue": [
+        { "speaker": "samia", "text": "Trois semaines ? Pour ÇA ?" },
+        { "speaker": "leila", "text": "J'ai tout supprimé hier soir. Toutes les applis." }
+      ],
+      "cast": ["leila", "samia"],
+      "image_prompt": "Samia bursting out laughing almost spilling her tea, Leïla calm and resolute showing her phone with an empty home screen, cafe terrace",
+      "motion_prompt": "Samia laughs covering her mouth, Leïla slides her phone across the table showing the empty screen, small proud smile",
+      "duration": 8
+    },
+    {
+      "dialogue": [
+        { "speaker": "samia", "text": "Attends… toi ? Tu abandonnes ?" },
+        { "speaker": "leila", "text": "Non. J'arrête juste de chercher là où il n'y a rien." }
+      ],
+      "cast": ["leila", "samia"],
+      "image_prompt": "Close on the two women, Samia suddenly serious with concern, Leïla looking away at the street with quiet dignity, soft light on her profile",
+      "motion_prompt": "Samia tilts her head concerned, Leïla gazes at the street then back with a serene resolute look",
+      "duration": 10
+    },
+    {
+      "dialogue": [
+        { "speaker": "samia", "text": "T'as prévu quoi, samedi ?" },
+        { "speaker": "leila", "text": "Pourquoi tu souris comme ça, toi ?" }
+      ],
+      "cast": ["leila", "samia"],
+      "image_prompt": "Samia with a mischievous knowing grin pulling out her phone, Leïla squinting at her with amused suspicion, cafe terrace golden light",
+      "motion_prompt": "Samia grins and digs for her phone, Leïla crosses her arms with a suspicious smile",
+      "duration": 6
+    },
+    {
+      "dialogue": [
+        { "speaker": "samia", "text": "Un dîner. Huit personnes, un vrai restaurant. Tous vérifiés, tous là pour du sérieux." },
+        { "speaker": "leila", "text": "Un dîner ? Genre… en vrai, avec des vrais gens ?" }
+      ],
+      "cast": ["leila", "samia"],
+      "image_prompt": "Samia showing her phone with a warm app interface displaying a dinner event card, Leïla leaning in skeptical but curious, their two faces lit by the warm screen",
+      "motion_prompt": "Samia holds up the phone, Leïla leans in slowly, her skeptical face softening into curiosity",
+      "duration": 12
+    },
+    {
+      "dialogue": [
+        { "speaker": "samia", "text": "En vrai. Tu parles, tu ris, tu vois. Pas de swipe." },
+        { "speaker": "leila", "text": "… D'accord. Samedi." }
+      ],
+      "cast": ["leila", "samia"],
+      "image_prompt": "Samia raising her tea glass as a toast with a triumphant smile, Leïla finally smiling a real smile and clinking her glass, warm complicity",
+      "motion_prompt": "They clink tea glasses, Samia winks, Leïla laughs despite herself",
+      "duration": 10
+    },
+    {
+      "dialogue": [
+        { "speaker": "invite", "text": "Et donc… le thé à la menthe, ou rien ?" },
+        { "speaker": "leila", "text": "Ou rien." }
+      ],
+      "cast": ["leila"],
+      "image_prompt": "Saturday evening restaurant dinner, Leïla laughing genuinely at a warm table, facing a sincere elegant 36-year-old North African man with a short beard and navy shirt who just made her laugh, candlelight, mint tea being poured",
+      "motion_prompt": "The man pours mint tea theatrically, Leïla laughs a real open laugh, candles flicker, eye contact holds",
+      "duration": 8
+    },
+    {
+      "vo": "Les vraies conversations commencent autour d'une vraie table. Nour Meet. Inscris-toi gratuitement.",
+      "image_prompt": "",
+      "image_file": "assets/branding/endcard.png",
+      "motion_prompt": "",
+      "duration": 10,
+      "still": true,
+      "no_character": true
+    }
+  ]
+}

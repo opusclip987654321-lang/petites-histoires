@@ -1,0 +1,184 @@
+{
+  "id": "17-zineb",
+  "title": "Zineb — La tante qui a frappé fort",
+  "style": "Modern stylized 3D animation, warm color palette, soft cinematic lighting, expressive characters, high quality render",
+  "characters": [
+    {
+      "key": "zineb",
+      "name": "Zineb",
+      "description": "Zineb, 30, Moroccan origin, long dark hair pulled into a sleek ponytail, emerald green blouse and black trousers, sharp determined eyes",
+      "voice": "Clear firm tone with a sarcastic bite, medium pace"
+    },
+    {
+      "key": "youssef",
+      "name": "Youssef",
+      "description": "Youssef, 32, Algerian origin, short trimmed beard, dark blue suit, calm confident posture",
+      "voice": "Deep measured voice, slow and steady"
+    },
+    {
+      "key": "malika",
+      "name": "Malika",
+      "description": "Malika, 50, Tunisian origin, aunt, short curly hair, beige traditional jacket, piercing critical gaze",
+      "voice": "Loud sharp voice, fast and cutting"
+    }
+  ],
+  "speakers": {
+    "zineb": {},
+    "youssef": {},
+    "malika": {}
+  },
+  "scenes": [
+    {
+      "dialogue": [
+        {
+          "speaker": "malika",
+          "text": "Avec ce caractère, tu finiras seule !"
+        }
+      ],
+      "cast": [
+        "malika",
+        "zineb"
+      ],
+      "image_prompt": "Close-up in a Paris restaurant, Malika leaning forward aggressively toward Zineb who looks stunned",
+      "motion_prompt": "Malika delivers the line first, Zineb freezes and stares",
+      "duration": 8
+    },
+    {
+      "dialogue": [
+        {
+          "speaker": "zineb",
+          "text": "Tante, pas devant tout le monde."
+        }
+      ],
+      "cast": [
+        "zineb",
+        "malika",
+        "youssef"
+      ],
+      "image_prompt": "Medium shot at the dinner table, Youssef watching the exchange silently",
+      "motion_prompt": "Zineb answers quietly, Malika smirks",
+      "duration": 6
+    },
+    {
+      "dialogue": [
+        {
+          "speaker": "malika",
+          "text": "Il faut que les hommes sachent la vérité."
+        }
+      ],
+      "cast": [
+        "malika",
+        "youssef"
+      ],
+      "image_prompt": "Malika turns toward Youssef with a pointed look",
+      "motion_prompt": "Malika speaks directly to Youssef, Zineb tenses",
+      "duration": 6
+    },
+    {
+      "dialogue": [
+        {
+          "speaker": "youssef",
+          "text": "Et si on parlait de toi plutôt ?"
+        }
+      ],
+      "cast": [
+        "youssef",
+        "malika"
+      ],
+      "image_prompt": "Youssef calmly redirects the conversation, Malika surprised",
+      "motion_prompt": "Youssef speaks slowly, Malika blinks",
+      "duration": 6
+    },
+    {
+      "dialogue": [
+        {
+          "speaker": "malika",
+          "text": "Moi ? Je suis venue pour t’aider !"
+        }
+      ],
+      "cast": [
+        "malika",
+        "youssef",
+        "zineb"
+      ],
+      "image_prompt": "Malika defensive, Zineb observing the shift",
+      "motion_prompt": "Malika raises her voice, Youssef stays composed",
+      "duration": 6
+    },
+    {
+      "dialogue": [
+        {
+          "speaker": "zineb",
+          "text": "Alors aide-moi en partant."
+        }
+      ],
+      "cast": [
+        "zineb",
+        "malika"
+      ],
+      "image_prompt": "Zineb speaks firmly, Malika offended",
+      "motion_prompt": "Zineb delivers the line, Malika stands up abruptly",
+      "duration": 6
+    },
+    {
+      "dialogue": [
+        {
+          "speaker": "youssef",
+          "text": "Reste. Parlons vraiment."
+        }
+      ],
+      "cast": [
+        "youssef",
+        "zineb"
+      ],
+      "image_prompt": "Youssef turns to Zineb with a genuine smile",
+      "motion_prompt": "Youssef addresses Zineb directly, she relaxes",
+      "duration": 8
+    },
+    {
+      "dialogue": [
+        {
+          "speaker": "zineb",
+          "text": "Tu n’as pas peur de ma tante ?"
+        },
+        {
+          "speaker": "youssef",
+          "text": "Non. J’aime les femmes qui répondent."
+        }
+      ],
+      "cast": [
+        "zineb",
+        "youssef"
+      ],
+      "image_prompt": "Two-shot, Zineb and Youssef leaning in, Malika leaving frame",
+      "motion_prompt": "Zineb asks, Youssef answers with a half-smile",
+      "duration": 8
+    },
+    {
+      "dialogue": [
+        {
+          "speaker": "youssef",
+          "text": "Un autre dîner sans elle ?"
+        }
+      ],
+      "cast": [
+        "youssef",
+        "zineb"
+      ],
+      "image_prompt": "Youssef shows his phone with the Nour Meet app to Zineb",
+      "motion_prompt": "Youssef gestures to the screen, Zineb nods",
+      "duration": 8
+    },
+    {
+      "image_prompt": "",
+      "image_file": "assets/branding/endcard.png",
+      "motion_prompt": "",
+      "duration": 10,
+      "still": true,
+      "no_character": true,
+      "vo": "La gifle la plus dure peut révéler le meilleur allié. Nour Meet. Inscris-toi gratuitement."
+    }
+  ],
+  "generated": true,
+  "cta": "classique"
+}

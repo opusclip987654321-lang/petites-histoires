@@ -1,0 +1,56 @@
+{
+  "id": "08-leila",
+  "title": "Leïla — Fatiguée des applis qui ne mènent nulle part",
+  "style": "Modern stylized 3D animation, warm color palette, soft cinematic lighting, expressive character, high quality render",
+  "character": {
+    "name": "Leïla",
+    "description": "Leïla, a 34-year-old North African woman, sleek shoulder-length dark hair, sophisticated minimalist style with a cream blazer, intelligent weary eyes, elegant reserve"
+  },
+  "scenes": [
+    {
+      "vo": "Leïla connaît les applis de rencontre par cœur. Trois ans qu'elle swipe.",
+      "image_prompt": "Leïla on her sofa at night mechanically swiping profiles on her phone, face lit blue, expression of complete boredom, stylish apartment in shadow",
+      "motion_prompt": "Her thumb swipes mechanically, blue light flickers on her tired face, she sighs",
+      "duration": 10
+    },
+    {
+      "vo": "Les conversations qui meurent au bout de trois messages. Les « on verra où ça nous mène ». Les rendez-vous qui ne mènent nulle part.",
+      "image_prompt": "Split montage mood: dead chat conversations on screen, then Leïla at a disappointing cafe date with a man glued to his own phone, muted colors",
+      "motion_prompt": "Chat bubbles appear then stop, cut to the date where the man scrolls his phone while she stares in disbelief",
+      "duration": 12
+    },
+    {
+      "vo": "Un soir, elle a supprimé. Toutes. Pas par dépit. Par lucidité : ce qu'elle cherche ne se trouve pas là.",
+      "image_prompt": "Close on Leïla's hand deleting dating apps one by one, then putting the phone down and exhaling with relief, candle and tea on the table, liberating calm",
+      "motion_prompt": "App icons vanish one by one, she sets the phone face down, closes her eyes, shoulders drop with relief",
+      "duration": 10
+    },
+    {
+      "vo": "Parce que Leïla ne cherche pas à « voir où ça va ». Elle cherche quelqu'un qui sait où il va. Des valeurs. Une intention claire : le mariage.",
+      "image_prompt": "Leïla walking confidently in a Parisian park in morning light, serene and self-assured, autumn leaves, elegant posture",
+      "motion_prompt": "She walks with quiet confidence, leaves drift, gentle tracking shot at her pace",
+      "duration": 10
+    },
+    {
+      "vo": "C'est là qu'elle découvre Nour Meet. Pas de swipe. Pas de jeu. Des dîners en petit comité, des participants vérifiés, et une intention affichée dès le départ.",
+      "image_prompt": "Leïla discovering the app on her phone at a cafe, her skeptical face slowly opening into genuine interest, warm cafe light replacing the old blue glow",
+      "motion_prompt": "She reads carefully, eyebrow raised, then a slow genuine smile, warm light on her face",
+      "duration": 10
+    },
+    {
+      "vo": "Sa première soirée : une vraie table, de vraies conversations. Et en face d'elle, quelqu'un qui cherchait exactement la même chose.",
+      "image_prompt": "A refined restaurant dinner, Leïla in genuine conversation with a distinguished sincere man, real eye contact, mint tea, candlelight, no phones anywhere",
+      "motion_prompt": "Genuine conversation, they hold eye contact, both smile with a hint of shyness, candles flicker",
+      "duration": 10
+    },
+    {
+      "vo": "Le sérieux n'est pas ringard. C'est juste rare. Nour Meet. Inscris-toi gratuitement.",
+      "image_prompt": "",
+      "image_file": "assets/branding/endcard.png",
+      "motion_prompt": "",
+      "duration": 10,
+      "still": true,
+      "no_character": true
+    }
+  ]
+}

@@ -1,0 +1,211 @@
+{
+  "id": "18-lina",
+  "title": "Lina & Tarek — Ton contact, c’est lui",
+  "style": "Viral TikTok stickman cartoon style: characters with big round white heads, simple expressive dot eyes and bold eyebrows, thin black limbs, thick clean black outlines, simple flat colorful backgrounds with bold shapes, vibrant solid colors, funny exaggerated expressions, no text",
+  "characters": [
+    {
+      "key": "lina",
+      "name": "Lina",
+      "description": "woman, 30, North African origin, round face, long dark hair in ponytail, wearing bright yellow blazer and jeans, expressive eyebrows, confident posture",
+      "genre": "femme"
+    },
+    {
+      "key": "tarek",
+      "name": "Tarek",
+      "description": "man, 32, North African origin, short beard, curly hair, wearing blue polo and dark jacket, animated hand gestures, slightly cocky smile",
+      "genre": "homme"
+    },
+    {
+      "key": "amel",
+      "name": "Amel",
+      "description": "woman, 42, North African origin, short curly hair, elegant red dress, round glasses, calm and observant expression",
+      "genre": "femme"
+    }
+  ],
+  "speakers": {
+    "lina": {
+      "voice_id": "O31r762Gb3WFygrEOGh0"
+    },
+    "tarek": {},
+    "amel": {
+      "voice_id": "F1toM6PcP54s45kOOAyV"
+    }
+  },
+  "scenes": [
+    {
+      "dialogue": [
+        {
+          "speaker": "lina",
+          "text": "Toi, tu m’as volé mon rendez-vous ?"
+        }
+      ],
+      "cast": [
+        "lina",
+        "tarek"
+      ],
+      "image_prompt": "Lina leaning forward angrily at a restaurant table, Tarek looking surprised, colorful plates and wine glasses, question marks floating above heads",
+      "motion_prompt": "Lina points finger, head shakes, Tarek leans back with raised eyebrows, plates shake slightly",
+      "duration": 6
+    },
+    {
+      "dialogue": [
+        {
+          "speaker": "tarek",
+          "text": "Moi ? J’ai juste parlé du même projet."
+        },
+        {
+          "speaker": "lina",
+          "text": "Parlé ou pris le contrat ?"
+        }
+      ],
+      "cast": [
+        "lina",
+        "tarek"
+      ],
+      "image_prompt": "Close-up on Lina and Tarek facing each other across table, steam coming from coffee cups, tense expressions",
+      "motion_prompt": "",
+      "duration": 6,
+      "still": true
+    },
+    {
+      "dialogue": [
+        {
+          "speaker": "tarek",
+          "text": "Attends, je suis pas ton concurrent."
+        }
+      ],
+      "cast": [
+        "tarek",
+        "lina"
+      ],
+      "image_prompt": "Tarek raising both hands in defense, Lina crossing arms, restaurant background with soft lights",
+      "motion_prompt": "",
+      "duration": 6,
+      "still": true
+    },
+    {
+      "dialogue": [
+        {
+          "speaker": "amel",
+          "text": "Vous parlez du même investisseur ?"
+        }
+      ],
+      "cast": [
+        "amel",
+        "lina",
+        "tarek"
+      ],
+      "image_prompt": "Amel arriving at table smiling, Lina and Tarek turning surprised, light bulb icon above Amel",
+      "motion_prompt": "Amel sits down smoothly, light bulb pops and glows, Lina and Tarek heads turn fast",
+      "duration": 6
+    },
+    {
+      "dialogue": [
+        {
+          "speaker": "lina",
+          "text": "C’est toi qui m’as invitée via l’appli ?"
+        }
+      ],
+      "cast": [
+        "lina",
+        "amel"
+      ],
+      "image_prompt": "Lina checking phone screen, Amel nodding, Tarek in background looking relieved",
+      "motion_prompt": "",
+      "duration": 6,
+      "still": true
+    },
+    {
+      "dialogue": [
+        {
+          "speaker": "amel",
+          "text": "Exact. Vous deux, vous complétez."
+        },
+        {
+          "speaker": "tarek",
+          "text": "On se calme et on bosse ensemble ?"
+        }
+      ],
+      "cast": [
+        "amel",
+        "tarek",
+        "lina"
+      ],
+      "image_prompt": "Three characters around table, Amel holding phone with Nour Meet logo visible, relaxed atmosphere",
+      "motion_prompt": "",
+      "duration": 6,
+      "still": true
+    },
+    {
+      "dialogue": [
+        {
+          "speaker": "lina",
+          "text": "Et moi qui croyais à la guerre…"
+        }
+      ],
+      "cast": [
+        "lina",
+        "tarek"
+      ],
+      "image_prompt": "Lina laughing, Tarek smiling back, empty plates and shared dessert on table",
+      "motion_prompt": "Lina slaps forehead then laughs, Tarek gives thumbs up, dessert sparkles",
+      "duration": 6
+    },
+    {
+      "dialogue": [
+        {
+          "speaker": "tarek",
+          "text": "Prochain dîner, on signe ensemble."
+        }
+      ],
+      "cast": [
+        "tarek",
+        "lina"
+      ],
+      "image_prompt": "Tarek and Lina shaking hands over table, Amel watching satisfied, warm restaurant lights",
+      "motion_prompt": "",
+      "duration": 6,
+      "still": true
+    },
+    {
+      "dialogue": [
+        {
+          "speaker": "amel",
+          "text": "C’est comme ça que les vrais deals naissent."
+        }
+      ],
+      "cast": [
+        "amel"
+      ],
+      "image_prompt": "Close-up on Amel raising glass, soft smile, elegant restaurant decor",
+      "motion_prompt": "Amel raises glass slowly then winks, golden particles around glass",
+      "duration": 6
+    },
+    {
+      "dialogue": [
+        {
+          "speaker": "lina",
+          "text": "Prochain coup, on vérifie avant de s’énerver."
+        }
+      ],
+      "cast": [
+        "lina"
+      ],
+      "image_prompt": "Lina looking at camera with knowing smile, Tarek and Amel blurred in background",
+      "motion_prompt": "",
+      "duration": 6,
+      "still": true
+    },
+    {
+      "image_prompt": "",
+      "image_file": "assets/branding/endcard.png",
+      "motion_prompt": "",
+      "duration": 10,
+      "still": true,
+      "no_character": true,
+      "vo": "Moral : un malentendu pro peut cacher la meilleure alliance. Nour Meet. Inscris-toi gratuitement."
+    }
+  ],
+  "generated": true,
+  "cta": "classique"
+}

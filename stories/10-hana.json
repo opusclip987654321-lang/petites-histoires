@@ -1,0 +1,62 @@
+{
+  "id": "10-hana",
+  "title": "Hana — Réussir sa vie, pas seulement sa carrière",
+  "style": "Modern stylized 3D animation, warm color palette, soft cinematic lighting, expressive character, high quality render",
+  "character": {
+    "name": "Hana",
+    "description": "Hana, a 31-year-old North African woman, impeccable low ponytail, chic black blazer and gold earrings, magnetic public smile, deep thoughtful eyes"
+  },
+  "scenes": [
+    {
+      "vo": "Sur les réseaux, la vie de Hana fait rêver.",
+      "image_prompt": "Hana taking a radiant selfie in a beautiful rooftop bar over Paris at sunset, glamorous, her phone showing streams of likes and fire emojis",
+      "motion_prompt": "She takes the selfie with a perfect smile, hearts and likes float up the screen, city glitters",
+      "duration": 8
+    },
+    {
+      "vo": "Le poste à responsabilités. Le bel appartement. Les voyages. Toutes les cases sont cochées.",
+      "image_prompt": "Fast montage mood: Hana leading a meeting, Hana in a designer apartment, Hana at an airport with elegant luggage, saturated instagram-perfect colors",
+      "motion_prompt": "Quick elegant transitions between the three success scenes, everything shines slightly too much",
+      "duration": 8
+    },
+    {
+      "vo": "Mais le dimanche soir, quand elle pose son téléphone… il ne reste que le silence.",
+      "image_prompt": "Sunday night, Hana on her designer sofa in a dim silent apartment, phone face down on the table, city lights through the window, mask dropped, real melancholic face",
+      "motion_prompt": "She puts the phone down, the artificial glow dies, her public smile slowly fades into her real tired face",
+      "duration": 10
+    },
+    {
+      "vo": "Trois mille abonnés. Et personne à appeler. Des « collègues », des « contacts », des « followers ». Mais des liens vrais ? Aucun.",
+      "image_prompt": "Hana scrolling her contact list in the dark, hundreds of names sliding past, her thumb hovering without stopping on anyone, blue lonely light",
+      "motion_prompt": "Names scroll endlessly under her thumb, she stops, locks the phone, stares at the ceiling",
+      "duration": 10
+    },
+    {
+      "vo": "Un dimanche comme ça, elle tombe sur une phrase : « Des soirées pour faire de vraies rencontres. » Vraies. Ce mot-là.",
+      "image_prompt": "Close on Hana's phone showing the Nour Meet promise on screen, her eyes catching on the word, warm golden light beginning to replace the blue",
+      "motion_prompt": "Slow zoom on her eyes reading, a blink, the light on her face warms from blue to gold",
+      "duration": 8
+    },
+    {
+      "vo": "Un dîner en petit comité. Sans filtre, sans vitrine, sans personnage. Juste elle. Et ça a tout changé.",
+      "image_prompt": "A warm restaurant dinner where Hana laughs naturally without posing for once, no phone on the table, genuine faces around her, candlelight, she looks ten years lighter",
+      "motion_prompt": "Real unposed laughter, she covers her mouth laughing, the table joins in, candles dance",
+      "duration": 10
+    },
+    {
+      "vo": "Aujourd'hui, ses dimanches soirs ont des voix, des rires, des projets. Ça ne se poste pas. Ça se vit.",
+      "image_prompt": "Sunday evening, Hana's apartment full of life: friends cooking together in her kitchen, laughing, her phone forgotten on a shelf, golden warm light everywhere",
+      "motion_prompt": "Friends cook and laugh around her, she watches the scene with quiet happiness, warm steam rises",
+      "duration": 8
+    },
+    {
+      "vo": "La vraie réussite, c'est les liens. Nour Meet. Inscris-toi gratuitement.",
+      "image_prompt": "",
+      "image_file": "assets/branding/endcard.png",
+      "motion_prompt": "",
+      "duration": 10,
+      "still": true,
+      "no_character": true
+    }
+  ]
+}

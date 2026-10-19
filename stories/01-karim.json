@@ -1,0 +1,68 @@
+{
+  "id": "01-karim",
+  "title": "Karim — Le projet qui dort dans son téléphone",
+  "style": "Modern stylized 3D animation, warm color palette, soft cinematic lighting, expressive character, high quality render",
+  "character": {
+    "name": "Karim",
+    "description": "Karim, a 29-year-old North African man, short black hair, neat short beard, tired but kind eyes, grey hoodie under a navy-blue work jacket, jeans, white sneakers"
+  },
+  "scenes": [
+    {
+      "vo": "Ça, c'est Karim. 29 ans. Et dans son téléphone, il y a une idée qui pourrait changer sa vie.",
+      "image_prompt": "Karim standing in a logistics warehouse aisle, tall shelving racks in the background, looking at his phone which lights up his face, end-of-day atmosphere",
+      "motion_prompt": "Slow zoom in on his face lit by the phone screen, blurred warehouse activity in the background, subtle breathing",
+      "duration": 6
+    },
+    {
+      "vo": "Chaque soir, après l'entrepôt, il ouvre ses notes. Son projet d'application. Deux ans qu'il le peaufine.",
+      "image_prompt": "Karim sitting at a small kitchen table at night, warm lamp light, holding his phone showing notes and app sketches, a pushed-aside dinner plate on the table",
+      "motion_prompt": "Static camera slightly high angle, he scrolls through his notes with his thumb, warm lamp light flickers softly",
+      "duration": 8
+    },
+    {
+      "vo": "Et chaque soir… il le referme. Parce que Karim n'a personne. Pas de développeur. Pas d'investisseur. Personne à qui en parler.",
+      "image_prompt": "Same kitchen, Karim has put the phone face down on the table, head resting on his hand, empty gaze, dark empty apartment around him",
+      "motion_prompt": "Slow dolly out revealing the empty silent apartment around him, he sighs, shoulders drop slightly",
+      "duration": 10
+    },
+    {
+      "vo": "Ses collègues ? Ils rigolent. « Toi, une appli ? Redescends, Karim. »",
+      "image_prompt": "Warehouse break room, two coworkers in work jackets laughing and elbowing each other, Karim standing apart holding a coffee cup with a forced smile",
+      "motion_prompt": "The two coworkers laugh, Karim lowers his eyes toward his coffee, slight slow zoom on him",
+      "duration": 6
+    },
+    {
+      "vo": "Alors l'idée dort. Et le pire, ce n'est pas d'échouer. C'est de ne jamais essayer.",
+      "image_prompt": "Night, Karim lying on his bed in dim light, eyes open staring at the ceiling, blue city light coming through window blinds casting striped shadows",
+      "motion_prompt": "Fixed camera above the bed, he blinks slowly, the blind shadows shift almost imperceptibly",
+      "duration": 8
+    },
+    {
+      "vo": "Jusqu'au soir où Karim découvre Nour Meet. Des développeurs. Des entrepreneurs. Des gens comme lui… qui cherchent des gens comme lui.",
+      "image_prompt": "Same bedroom but the mood shifts, Karim's face lights up looking at his phone displaying a clean app interface with professional profiles, warm golden light glowing on his face",
+      "motion_prompt": "Slow zoom in, his eyes widen with hope, he sits up, the warm golden light from the screen grows brighter",
+      "duration": 10
+    },
+    {
+      "vo": "Un profil. Un message. Une visio.",
+      "image_prompt": "Karim on a video call on a laptop with a smiling young developer wearing glasses and a headset, both animated and engaged, bright energetic mood",
+      "motion_prompt": "Both characters talk enthusiastically on the video call, hand gestures, Karim smiles openly",
+      "duration": 6
+    },
+    {
+      "vo": "Trois semaines plus tard, Karim ne referme plus ses notes. Il construit. À deux.",
+      "image_prompt": "The same kitchen table transformed: open laptop showing an app mockup, notebooks, colorful sticky notes, Karim focused and smiling, bright daylight",
+      "motion_prompt": "Gentle lateral tracking shot, he types on the keyboard then raises a discreet fist looking at the screen",
+      "duration": 8
+    },
+    {
+      "vo": "Ton associé existe. Il ne sait juste pas encore que tu existes. Nour Meet. Inscris-toi gratuitement.",
+      "image_prompt": "",
+      "image_file": "assets/branding/endcard.png",
+      "motion_prompt": "",
+      "duration": 10,
+      "still": true,
+      "no_character": true
+    }
+  ]
+}

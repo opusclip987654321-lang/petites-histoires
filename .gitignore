@@ -1,0 +1,10 @@
+.env
+.env.*
+data/
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.log
+*.mp3
+*.mp4

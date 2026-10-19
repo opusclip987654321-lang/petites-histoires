@@ -1,0 +1,62 @@
+{
+  "id": "04-amina",
+  "title": "Amina — Nouvelle dans la ville",
+  "style": "Modern stylized 3D animation, warm color palette, soft cinematic lighting, expressive character, high quality render",
+  "character": {
+    "name": "Amina",
+    "description": "Amina, a 28-year-old North African woman, dark hair in a low bun, soft features, smart casual style with a camel coat and white sneakers, bright but lonely eyes"
+  },
+  "scenes": [
+    {
+      "vo": "Il y a huit mois, Amina a tout quitté pour son nouveau poste. Nouvelle ville. Nouveau bureau. Nouvelle vie.",
+      "image_prompt": "Amina pulling a suitcase out of a train station into a big unfamiliar city, tall Haussmann buildings, golden afternoon light, small figure in a large frame",
+      "motion_prompt": "She walks forward with her suitcase, the camera slowly pulls up revealing the vast city around her small figure",
+      "duration": 10
+    },
+    {
+      "vo": "Le travail, ça va. C'est le reste qui manque.",
+      "image_prompt": "Amina at a modern office smiling professionally in a meeting, competent and appreciated, bright office light",
+      "motion_prompt": "She presents confidently in the meeting, colleagues nod, subtle steady camera",
+      "duration": 6
+    },
+    {
+      "vo": "Le week-end : courses. Ménage. Écrans. Et le silence d'un appartement qu'elle connaît par cœur.",
+      "image_prompt": "Sunday montage mood: Amina alone on her sofa wrapped in a blanket with her phone, tidy small apartment, grey light through the window, muted colors",
+      "motion_prompt": "She scrolls slowly, pulls the blanket closer, the grey light barely changes, stillness",
+      "duration": 10
+    },
+    {
+      "vo": "Sa mère l'appelle. « Tu as rencontré des gens ? » Amina répond que oui. Elle ment un peu.",
+      "image_prompt": "Amina on a video call with her worried loving mother on the phone screen, Amina forcing a reassuring smile, warm phone light in the dim room",
+      "motion_prompt": "The mother speaks warmly on screen, Amina nods with a forced smile that fades when she hangs up",
+      "duration": 8
+    },
+    {
+      "vo": "Un soir, elle tombe sur Nour Meet. Des dîners en petit comité, près de chez elle. Des gens vérifiés. Des gens comme elle.",
+      "image_prompt": "Amina's face lighting up looking at her phone showing a cozy dinner event card in a clean app interface, warm golden glow replacing the grey light",
+      "motion_prompt": "Warm golden light spreads across her face and the room, she sits up, hope in her eyes",
+      "duration": 12
+    },
+    {
+      "vo": "Première soirée. Une table. Des rires. Des prénoms qu'elle retient.",
+      "image_prompt": "A warm restaurant table with Amina laughing among a small friendly group, mint tea and shared plates, genuine connection, candlelight",
+      "motion_prompt": "Laughter ripples around the table, candle flames dance, gentle lateral camera drift",
+      "duration": 8
+    },
+    {
+      "vo": "Aujourd'hui, ses week-ends ont des visages. Et l'un d'eux compte un peu plus que les autres.",
+      "image_prompt": "Amina walking in a sunny Parisian park with new friends, and slightly apart a kind man walking beside her, both smiling shyly, vibrant warm colors",
+      "motion_prompt": "The group walks and laughs, slow focus shift to Amina and the man exchanging a shy smile",
+      "duration": 8
+    },
+    {
+      "vo": "Une nouvelle ville, ce n'est pas une punition. C'est un début. Nour Meet. Inscris-toi gratuitement.",
+      "image_prompt": "",
+      "image_file": "assets/branding/endcard.png",
+      "motion_prompt": "",
+      "duration": 10,
+      "still": true,
+      "no_character": true
+    }
+  ]
+}

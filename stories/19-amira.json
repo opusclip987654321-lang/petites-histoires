@@ -1,0 +1,210 @@
+{
+  "id": "19-amira",
+  "title": "Amira — Pas le client que tu crois",
+  "style": "Viral TikTok stickman cartoon style: characters with big round white heads, simple expressive dot eyes and bold eyebrows, thin black limbs, thick clean black outlines, simple flat colorful backgrounds with bold shapes, vibrant solid colors, funny exaggerated expressions, no text",
+  "characters": [
+    {
+      "key": "amira",
+      "name": "Amira",
+      "description": "woman, 32, North African origin, sleek black hair in a low bun, round face with sharp brows, wearing a deep emerald blouse and gold hoop earrings, poised yet guarded expression",
+      "genre": "femme"
+    },
+    {
+      "key": "youssef",
+      "name": "Youssef",
+      "description": "man, 35, North African origin, short trimmed beard, close-cropped hair, round face, wearing a navy button-down shirt with rolled sleeves, calm intense gaze",
+      "genre": "homme"
+    },
+    {
+      "key": "fatima",
+      "name": "Fatima",
+      "description": "woman, 40, North African origin, wavy shoulder-length hair with silver streaks, round face, wearing a soft beige cardigan over a white top, warm knowing smile",
+      "genre": "femme"
+    }
+  ],
+  "speakers": {
+    "amira": {
+      "voice_id": "O31r762Gb3WFygrEOGh0"
+    },
+    "youssef": {},
+    "fatima": {
+      "voice_id": "F1toM6PcP54s45kOOAyV"
+    }
+  },
+  "scenes": [
+    {
+      "dialogue": [
+        {
+          "speaker": "amira",
+          "text": "T'es pas mon rendez-vous business, hein ?"
+        }
+      ],
+      "cast": [
+        "amira"
+      ],
+      "image_prompt": "Amira at a restaurant table, leaning forward with narrowed eyes, question marks floating above her head, simple colorful decor",
+      "motion_prompt": "Amira's head tilts sharply, eyes widening, question marks bounce once",
+      "duration": 6
+    },
+    {
+      "dialogue": [
+        {
+          "speaker": "youssef",
+          "text": "Et si je l'étais quand même ?"
+        }
+      ],
+      "cast": [
+        "amira",
+        "youssef"
+      ],
+      "image_prompt": "Youssef smiling faintly across the table, Amira frozen mid-reaction, small storm cloud near her",
+      "motion_prompt": "",
+      "duration": 6,
+      "still": true
+    },
+    {
+      "dialogue": [
+        {
+          "speaker": "amira",
+          "text": "Fatima m'a dit projet pro."
+        },
+        {
+          "speaker": "youssef",
+          "text": "Elle a dit projet. Point."
+        }
+      ],
+      "cast": [
+        "amira",
+        "youssef"
+      ],
+      "image_prompt": "Close-up on both, Amira's mouth open, Youssef calm, subtle tension lines between them",
+      "motion_prompt": "Amira's mouth opens and closes quickly, Youssef's eyebrows lift slightly",
+      "duration": 6
+    },
+    {
+      "dialogue": [
+        {
+          "speaker": "amira",
+          "text": "Et le contrat alors ?"
+        }
+      ],
+      "cast": [
+        "amira",
+        "youssef"
+      ],
+      "image_prompt": "Amira holding an invisible paper, puzzled, Youssef watching her steadily",
+      "motion_prompt": "",
+      "duration": 6,
+      "still": true
+    },
+    {
+      "dialogue": [
+        {
+          "speaker": "youssef",
+          "text": "Le contrat, c'est nous deux."
+        }
+      ],
+      "cast": [
+        "amira",
+        "youssef"
+      ],
+      "image_prompt": "Youssef leaning in, soft light on his face, Amira's eyes widening in realization",
+      "motion_prompt": "Youssef's hand gestures slowly toward her, light glow pulses once",
+      "duration": 6
+    },
+    {
+      "dialogue": [
+        {
+          "speaker": "amira",
+          "text": "Fatima !"
+        }
+      ],
+      "cast": [
+        "amira",
+        "fatima"
+      ],
+      "image_prompt": "Fatima appearing at the table edge with a gentle smile, Amira turning sharply",
+      "motion_prompt": "",
+      "duration": 6,
+      "still": true
+    },
+    {
+      "dialogue": [
+        {
+          "speaker": "fatima",
+          "text": "J'ai juste ouvert la porte."
+        },
+        {
+          "speaker": "amira",
+          "text": "Et moi je l'ai franchie sans le voir."
+        }
+      ],
+      "cast": [
+        "amira",
+        "fatima",
+        "youssef"
+      ],
+      "image_prompt": "Three at the table, Fatima between them, soft warm colors, faint stars above",
+      "motion_prompt": "",
+      "duration": 6,
+      "still": true
+    },
+    {
+      "dialogue": [
+        {
+          "speaker": "youssef",
+          "text": "On continue ?"
+        }
+      ],
+      "cast": [
+        "amira",
+        "youssef"
+      ],
+      "image_prompt": "Amira and Youssef facing each other, faint smile forming on Amira's face",
+      "motion_prompt": "Both lean slightly closer, soft smile animation on Amira",
+      "duration": 6
+    },
+    {
+      "dialogue": [
+        {
+          "speaker": "amira",
+          "text": "On continue."
+        }
+      ],
+      "cast": [
+        "amira",
+        "youssef"
+      ],
+      "image_prompt": "Tight shot on their hands near the table, simple elegant background",
+      "motion_prompt": "",
+      "duration": 6,
+      "still": true
+    },
+    {
+      "dialogue": [
+        {
+          "speaker": "fatima",
+          "text": "Le reste se construit à deux."
+        }
+      ],
+      "cast": [
+        "fatima"
+      ],
+      "image_prompt": "Fatima looking at them with quiet satisfaction, soft evening light",
+      "motion_prompt": "",
+      "duration": 6,
+      "still": true
+    },
+    {
+      "image_prompt": "",
+      "image_file": "assets/branding/endcard.png",
+      "motion_prompt": "",
+      "duration": 10,
+      "still": true,
+      "no_character": true,
+      "vo": "Parfois le contrat le plus juste s'écrit sans signatures."
+    }
+  ],
+  "generated": true,
+  "cta": "discret"
+}

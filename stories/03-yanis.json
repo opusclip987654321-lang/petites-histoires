@@ -1,0 +1,62 @@
+{
+  "id": "03-yanis",
+  "title": "Yanis — Le livreur qui voulait sa flotte",
+  "style": "Modern stylized 3D animation, warm color palette, soft cinematic lighting, expressive character, high quality render",
+  "character": {
+    "name": "Yanis",
+    "description": "Yanis, a 35-year-old North African man, short dark hair with a fade cut, stubble beard, athletic build, wearing a black delivery jacket with a hi-vis vest, determined brown eyes"
+  },
+  "scenes": [
+    {
+      "vo": "Ça fait six ans que Yanis livre. Six ans qu'il connaît chaque rue, chaque raccourci, chaque client.",
+      "image_prompt": "Yanis on a delivery scooter riding through a Parisian street at dawn, delivery box on the back, city waking up, warm morning light",
+      "motion_prompt": "He rides steadily through the street, buildings gliding past, morning light flares softly",
+      "duration": 10
+    },
+    {
+      "vo": "Et depuis six ans, il a la même idée en tête : sa propre société de livraison. Sa flotte. Ses couleurs.",
+      "image_prompt": "Yanis pausing at a red light, gazing at a fleet of branded delivery vans passing by, his eyes following them with longing and determination",
+      "motion_prompt": "The vans pass one by one, his head follows them, slow push-in on his determined gaze",
+      "duration": 8
+    },
+    {
+      "vo": "Mais monter une boîte tout seul ? Sans comptable. Sans partenaire. Sans personne pour lui ouvrir une porte.",
+      "image_prompt": "Yanis at night at a small desk in his apartment, surrounded by printed paperwork and administrative forms, head in his hands, dim lamp light",
+      "motion_prompt": "He rubs his face wearily over the paperwork, the lamp flickers, papers stir slightly",
+      "duration": 10
+    },
+    {
+      "vo": "Alors chaque année, il repousse. « L'année prochaine, incha'Allah. »",
+      "image_prompt": "Calendar pages on a wall showing years passing, Yanis in delivery gear walking past the same wall each time, slightly more tired, muted colors",
+      "motion_prompt": "Calendar pages flip, he walks past in a loop, colors slowly desaturate",
+      "duration": 6
+    },
+    {
+      "vo": "Jusqu'au soir où il découvre Nour Meet. Des soirées networking. Des entrepreneurs. Des gens qui sont passés exactement par là.",
+      "image_prompt": "Yanis's face lit warmly by his phone showing a networking dinner event card in a clean app interface, his eyes widening with hope, dark kitchen background turning warm",
+      "motion_prompt": "The warm glow of the screen grows, he leans in, his expression shifts from tired to hopeful",
+      "duration": 10
+    },
+    {
+      "vo": "À une table, il rencontre Karim. Gérant d'une société de transport. Qui cherchait un homme de terrain. Exactement lui.",
+      "image_prompt": "A warm restaurant networking dinner, Yanis in a clean shirt talking passionately with an older confident businessman, both leaning in, exchanging phones, engaged conversation",
+      "motion_prompt": "They talk with animated gestures, the businessman nods approvingly, they exchange contacts on their phones",
+      "duration": 10
+    },
+    {
+      "vo": "Trois mois plus tard, Yanis ne livre plus pour les autres.",
+      "image_prompt": "Yanis proudly standing in front of his first delivery van with a fresh company logo, keys in hand, huge smile, bright daylight, small depot in the background",
+      "motion_prompt": "He tosses the keys and catches them, the camera slowly rises revealing the branded van, he beams with pride",
+      "duration": 8
+    },
+    {
+      "vo": "Les bonnes portes existent. Il faut juste rencontrer ceux qui les ouvrent. Nour Meet. Inscris-toi gratuitement.",
+      "image_prompt": "",
+      "image_file": "assets/branding/endcard.png",
+      "motion_prompt": "",
+      "duration": 10,
+      "still": true,
+      "no_character": true
+    }
+  ]
+}

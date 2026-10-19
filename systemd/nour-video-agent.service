@@ -1,0 +1,14 @@
+[Unit]
+Description=Agent video Nour Meet (bot Telegram + pipeline)
+After=network-online.target
+
+[Service]
+Type=simple
+User=TON_UTILISATEUR
+WorkingDirectory=/opt/nour-video-agent
+ExecStart=/opt/nour-video-agent/venv/bin/python bot.py
+Restart=always
+RestartSec=10
+
+[Install]
+WantedBy=multi-user.target

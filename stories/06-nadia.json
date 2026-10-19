@@ -1,0 +1,62 @@
+{
+  "id": "06-nadia",
+  "title": "Nadia — L'artisane invisible",
+  "style": "Modern stylized 3D animation, warm color palette, soft cinematic lighting, expressive character, high quality render",
+  "character": {
+    "name": "Nadia",
+    "description": "Nadia, a 30-year-old North African woman, curly dark hair tied up, flour-dusted apron over a burgundy blouse, warm determined face, expressive hands of a pastry artisan"
+  },
+  "scenes": [
+    {
+      "vo": "Les gâteaux de Nadia partent en une heure. À chaque fois qu'elle poste, tout est vendu.",
+      "image_prompt": "Nadia in her small home kitchen proudly finishing magnificent oriental pastries, phone showing sold-out notifications, warm golden kitchen light",
+      "motion_prompt": "She dusts sugar over pastries, notifications pop on the phone screen, steam rises softly",
+      "duration": 8
+    },
+    {
+      "vo": "Son rêve : sa pâtisserie. Sa vitrine. Son nom en lettres dorées.",
+      "image_prompt": "Nadia pausing at night in front of an empty storefront with a for-rent sign, imagining her name on the facade, reflections in the glass, dreamy warm light",
+      "motion_prompt": "She looks up at the empty facade, a subtle glow suggests her imagined golden sign appearing then fading",
+      "duration": 8
+    },
+    {
+      "vo": "Mais entre elle et ce rêve, il y a un mur : pas de local, pas de réseau, personne dans le métier.",
+      "image_prompt": "Nadia at her kitchen table late at night with notebooks of plans and numbers, looking overwhelmed, dim lamp, pastry boxes stacked around",
+      "motion_prompt": "She rubs her forehead over the notebooks, the lamp flickers, boxes tower around her",
+      "duration": 8
+    },
+    {
+      "vo": "Le pire ? Voir des concurrents moins bons réussir. Parce qu'eux, « ils connaissent du monde ».",
+      "image_prompt": "Nadia scrolling her phone seeing a rival bakery's grand opening photos with crowds, her face a mix of hurt and determination, blue phone light",
+      "motion_prompt": "She scrolls slowly, jaw tightens, then she puts the phone face down with resolve",
+      "duration": 8
+    },
+    {
+      "vo": "Alors Nadia tente une soirée networking Nour Meet. Des restaurateurs. Des traiteurs. Des gens du métier, enfin.",
+      "image_prompt": "Nadia entering a warm restaurant networking evening, welcomed by professionals, she carries a box of her pastries, nervous but hopeful smile",
+      "motion_prompt": "She steps in, someone welcomes her warmly, she offers her pastry box, faces light up",
+      "duration": 12
+    },
+    {
+      "vo": "À une table, un traiteur goûte sa corne de gazelle. Il en cherchait une comme ça depuis des mois.",
+      "image_prompt": "A distinguished caterer tasting her pastry with closed eyes of delight while Nadia watches anxiously, other guests leaning in, candlelight",
+      "motion_prompt": "The caterer tastes, pauses, opens his eyes impressed, Nadia's anxious face breaks into joy",
+      "duration": 10
+    },
+    {
+      "vo": "Six mois plus tard, ses boîtes portent son logo. Et son nom circule dans tous les événements de la ville.",
+      "image_prompt": "Elegant catering event with towers of pastry boxes bearing Nadia's golden logo, Nadia in professional attire supervising proudly, glamorous venue",
+      "motion_prompt": "Staff carry her branded boxes through the venue, she watches with quiet pride, lights sparkle",
+      "duration": 8
+    },
+    {
+      "vo": "Ton talent mérite d'être connu. Nour Meet. Inscris-toi gratuitement.",
+      "image_prompt": "",
+      "image_file": "assets/branding/endcard.png",
+      "motion_prompt": "",
+      "duration": 10,
+      "still": true,
+      "no_character": true
+    }
+  ]
+}
